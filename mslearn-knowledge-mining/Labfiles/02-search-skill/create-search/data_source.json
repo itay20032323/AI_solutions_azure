@@ -1,0 +1,9 @@
+{   
+    "name" : "margies-custom-data",  
+    "description" : "Documents for search.",  
+    "type" : "azureblob",
+    "credentials" :
+    { "connectionString" : "DefaultEndpointsProtocol=https;AccountName=ai102str2985521648;AccountKey=Uiq8QRgH8iwmEvA1aMD62qji2R5RY4zwR/HSMIOhP0jPfA8BwrSsZ0GUFtqlQmdOItklEFCyzZjA+AStr3AMxw==;EndpointSuffix=core.windows.net"
+    },  
+    "container" : { "name" : "margies" }
+} 
